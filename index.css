@@ -1,0 +1,123 @@
+*{
+    margin: 0; 
+    padding: 0;
+    box-sizing: border-box;
+}
+.ghost {
+background-color: black;
+color: aliceblue;
+width: 1330px;
+height: 40px;
+}
+.btn { 
+    border: none;
+    background-color:black;
+    color: aliceblue;
+    width: 60px;
+    height: 30px
+}
+.phone {
+width: 1330px;
+}
+.theband{
+    width: 700px;
+    margin-left: 340px;
+    margin-top: 30px;
+    margin: bottom 30px;; 
+}
+.theband h1{
+    text-align: center;
+}
+.theband h4{
+    text-align: center;
+    font-style: oblique;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.flex{
+   display:flex;
+   /* justify-content: space-between; */
+   padding-left: 40px;
+   width: 60%;
+   gap: 2rem;
+   margin: 0 auto;
+   padding-right: 40px;
+   padding-top: 30px; 
+}
+.flex p{
+    padding-left: 100px;
+
+}
+.dates{
+    background-color: black;
+    color: aliceblue;
+    width: 1330px;
+    height: 600px;
+    text-align: center;
+    padding-top: 30px;
+    margin-top: 40px;
+
+}
+.dates p1{
+    font-style: oblique;
+    margin-top: 40px;
+}
+.card img{
+  width: 400px;
+  height: 200px;
+  padding-right: 200px;
+}
+.card-container{
+    display: flex;
+    justify-content: space-evenly;
+    padding-right: 30px;
+    margin-top: 50px;
+    }
+    .card{
+        text-align: center;
+        margin-left: 50px;
+        width: 250px;
+        height: 300px;
+        padding-left: 30px;
+        background-color: aliceblue;
+        color: black;
+    }
+.dates-table{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    
+}
+.dates-table ul{
+    background-color: white;
+    color: black;
+    width: 800px;
+    text-align: start;
+}
+.dates-table ul li{
+    list-style-type: none;
+    border-bottom: 1px solid gray;
+}
+.contact{
+ text-align: center;
+}
+.contact p{
+    margin-top: 20px;
+    font-style: oblique;
+}
+.phone{
+margin-left: 200px;
+}
+.phone p {
+    margin-top: 10px;
+}
+.namebord{
+    margin left: ;
+}
+
+
+.contactdiv {
+    display: flex;
+    justify-content: center;
+  margin-top: 10px;
+}
